@@ -1,0 +1,10 @@
+C:\Users\alahyarparsa\source\repos\University\University.Db\bin\Debug\netstandard2.1\University.Db.deps.json
+C:\Users\alahyarparsa\source\repos\University\University.Db\bin\Debug\netstandard2.1\University.Db.dll
+C:\Users\alahyarparsa\source\repos\University\University.Db\bin\Debug\netstandard2.1\University.Db.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.dll
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Db\obj\Debug\netstandard2.1\University.Db.csproj.AssemblyReference.cache

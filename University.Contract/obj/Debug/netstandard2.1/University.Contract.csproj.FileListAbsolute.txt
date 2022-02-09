@@ -1,0 +1,10 @@
+C:\Users\alahyarparsa\source\repos\University\University.Contract\bin\Debug\netstandard2.1\University.Contract.deps.json
+C:\Users\alahyarparsa\source\repos\University\University.Contract\bin\Debug\netstandard2.1\University.Contract.dll
+C:\Users\alahyarparsa\source\repos\University\University.Contract\bin\Debug\netstandard2.1\University.Contract.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.dll
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Contract\obj\Debug\netstandard2.1\University.Contract.csproj.AssemblyReference.cache

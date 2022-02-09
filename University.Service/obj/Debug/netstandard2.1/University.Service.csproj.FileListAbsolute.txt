@@ -1,0 +1,16 @@
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Service.deps.json
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Service.dll
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Service.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Contract.dll
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Contract.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.CopyComplete
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.dll
+C:\Users\alahyarparsa\source\repos\University\University.Service\obj\Debug\netstandard2.1\University.Service.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Db.dll
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\University.Db.pdb
+C:\Users\alahyarparsa\source\repos\University\University.Service\bin\Debug\netstandard2.1\nlog.config
